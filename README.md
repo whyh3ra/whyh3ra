@@ -4,5 +4,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=whyh3ra&hide=contribs,prs)
 
 # 😰 Tech Stacks
-![javascript]([https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript])
-![python]([https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python])
+![javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript)
+![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
+
